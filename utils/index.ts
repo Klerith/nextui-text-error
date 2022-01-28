@@ -1,0 +1,1 @@
+export * as localFavorites from './localFavorites';
